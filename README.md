@@ -7,3 +7,6 @@ Después, se verifica si el número del menú es el 2. Si este número es el 2, 
 En el código, hay una función de "cin.ignore()", que se utiliza para borrar o ignorar caracteres del búfer de entrada. Si se llega a tener un número de caras de 10 valores, se generará un error y se imprimirá un mensaje. 
 Si el usuario selecciona el número 3 del menú, se imprimirá la estructura de la figura, mostrando los números de vértices y los números de las caras. 
 Por último, si el usuario presiona la opción 4 del menú, el código finalizará.
+\br
+\br
+Codigo en Python
