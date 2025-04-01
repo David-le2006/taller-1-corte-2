@@ -8,5 +8,5 @@ En el código, hay una función de "cin.ignore()", que se utiliza para borrar o 
 Si el usuario selecciona el número 3 del menú, se imprimirá la estructura de la figura, mostrando los números de vértices y los números de las caras. 
 Por último, si el usuario presiona la opción 4 del menú, el código finalizará.
 <br/>
-\br
+<br/>
 Codigo en Python
